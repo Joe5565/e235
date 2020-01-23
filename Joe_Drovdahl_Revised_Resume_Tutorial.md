@@ -3,15 +3,16 @@ layout: post
 title: "Resumes Templates For Tranferring Students" 
 date:   2019-06-14 10:00:00
 category: tutorials
-author: "Uyen Do" 
+author: "Joe Drovdahl" 
 ---
 
 ## Lesson Abstact
->This lesson is to show for students how to use Microfsoft Word to build a simple and professional resume so that students can create one by themselves. Microsoft Word offers a bunch of résumé templates. Some are beautiful; some are not. They can choose which style fits them best.
+>This lesson is to show students how to use Microfsoft Word to build a simple and professional résumé so that students can create one by themselves. Microsoft Word offers several résumé templates, each one possessing its own unique aspects. This gives students a plethora of options to showcase their skills and experience.
 
 ## Lesson Objectives/Outcomes
->Show how to create a résumé using Microsoft Word
->Provide a few tips on getting students through the résumé screening process so they can press that send button with confidence.
+>Show how to create a résumé using Microsoft Word.
+
+>Provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
 
 ## Materials
 
